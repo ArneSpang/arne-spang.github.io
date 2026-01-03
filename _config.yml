@@ -23,12 +23,12 @@ repository               : "https://github.com/ArneSpang/arne-spang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Mountain_small.png"
   name             : "Arne Spang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Computational Geodynamics"
   location         : "Bayreuth, Germany"
-  employer         : "Bavarian Geoinstitute, \nUniversity of Bayreuth"
+  employer         : "University of Bayreuth"
   uri              : # URL
   email            : "arne.spang@uni-bayreuth.de" 
 

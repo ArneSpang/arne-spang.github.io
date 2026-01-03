@@ -23,7 +23,7 @@ repository               : "https://github.com/ArneSpang/arne-spang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mountain_small.png"
+  avatar           : "Mountain_small_close.png"
   name             : "Arne Spang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Computational Geodynamics"

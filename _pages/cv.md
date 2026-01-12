@@ -39,6 +39,10 @@ Work experience
 * 04/2018 - 09/2018 &nbsp; &nbsp; Research Assistant at University of Mainz, Germany
   * Code execution
   * Geodynamic models of folding
+
+* 04/2012 - 09/2013 &nbsp; &nbsp; Rubel & Partner, Wörrstadt, Germany
+  * Geotechnical field work
+  * Internship and minor job later on
   
 Skills
 ======

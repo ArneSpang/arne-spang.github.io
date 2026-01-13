@@ -44,6 +44,33 @@ Work experience
   * Geotechnical field work
   * Internship and minor job later on
 
+Supervision
+======
+* Tatjana Weiler, PhD thesis
+  * 12/2023 - present
+  * “Modelling of deep earthquake generation in the Hindu Kush”
+  * Co-supervisor
+* Danielle Silva Souza, PhD thesis
+  * 12/2023 - present
+  * “Experimental investigation of Antigorite dehydration reactions under deformation”
+  * Mentor
+* Hao Liu, PhD thesis
+  * 10/2023 - present
+  * “Geodynamic modelling of the Changbai magmatic system”
+  * External advisor
+* Muhammad Ilham Hamadi, Master thesis
+  * 04/2024 - 10/2024
+  * “Postseismic relaxation due to thermally activated ductile deformation”
+  * Main supervisor
+* Zornitsa Kunchova, Master thesis
+  * 06/2022 - 05/2023
+  * “Modelling of magmatic systems underneath the Klyuchevskoy group of volcanoes, Kamchatka”
+  * Co-supervisor
+* Elisabeth Walter, Bachelor thesis
+  * 10/2021 - 02/2022
+  * “Geophysical Modelling of Magma Induced Uplift at Campi Flegrei, Italy”
+  * Co-supervisor
+
 Skills
 ======
 * Languages

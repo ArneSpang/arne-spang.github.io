@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my full CV [here]({{file name='./images/profile.png'}}).
+
 Education
 ======
 * 10/2018 - 07/2022 &nbsp; &nbsp; Ph.D. Computational Geodynamics at University of Mainz, Germany
@@ -107,7 +109,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Invited talks and seminars
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

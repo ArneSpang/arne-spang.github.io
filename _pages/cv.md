@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](/images/profile.png).
+Download my full CV [here](/assets/CV_2026_01.pdf).
 
 Education
 ======
